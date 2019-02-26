@@ -1,0 +1,6 @@
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Bot\Bot\bin\Release\Bot.exe.config
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Bot\Bot\bin\Release\Bot.exe
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Bot\Bot\bin\Release\Bot.pdb
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Bot\Bot\obj\Release\Bot.csproj.CoreCompileInputs.cache
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Bot\Bot\obj\Release\Bot.exe
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Bot\Bot\obj\Release\Bot.pdb

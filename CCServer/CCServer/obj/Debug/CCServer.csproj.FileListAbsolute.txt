@@ -1,0 +1,14 @@
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\CCServer\CCServer\bin\Debug\CCServer.exe.config
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\CCServer\CCServer\bin\Debug\CCServer.exe
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\CCServer\CCServer\bin\Debug\CCServer.pdb
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\CCServer\CCServer\obj\Debug\CCServer.csprojResolveAssemblyReference.cache
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\CCServer\CCServer\obj\Debug\CCServer.csproj.CoreCompileInputs.cache
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\CCServer\CCServer\obj\Debug\CCServer.exe
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\CCServer\CCServer\obj\Debug\CCServer.pdb
+D:\Hackathon-december\Code\CCServer\CCServer\bin\Debug\CCServer.exe.config
+D:\Hackathon-december\Code\CCServer\CCServer\bin\Debug\CCServer.exe
+D:\Hackathon-december\Code\CCServer\CCServer\bin\Debug\CCServer.pdb
+D:\Hackathon-december\Code\CCServer\CCServer\obj\Debug\CCServer.csprojResolveAssemblyReference.cache
+D:\Hackathon-december\Code\CCServer\CCServer\obj\Debug\CCServer.csproj.CoreCompileInputs.cache
+D:\Hackathon-december\Code\CCServer\CCServer\obj\Debug\CCServer.exe
+D:\Hackathon-december\Code\CCServer\CCServer\obj\Debug\CCServer.pdb

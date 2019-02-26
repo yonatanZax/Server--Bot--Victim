@@ -1,0 +1,14 @@
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Bot\Bot\bin\Debug\Bot.exe.config
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Bot\Bot\bin\Debug\Bot.exe
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Bot\Bot\bin\Debug\Bot.pdb
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Bot\Bot\obj\Debug\Bot.csproj.CoreCompileInputs.cache
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Bot\Bot\obj\Debug\Bot.exe
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Bot\Bot\obj\Debug\Bot.pdb
+D:\Hackathon-december\Code\Bot\Bot\bin\Debug\Bot.exe.config
+D:\Hackathon-december\Code\Bot\Bot\bin\Debug\Bot.exe
+D:\Hackathon-december\Code\Bot\Bot\bin\Debug\Bot.pdb
+D:\Hackathon-december\Code\Bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+D:\Hackathon-december\Code\Bot\Bot\obj\Debug\Bot.csproj.CoreCompileInputs.cache
+D:\Hackathon-december\Code\Bot\Bot\obj\Debug\Bot.exe
+D:\Hackathon-december\Code\Bot\Bot\obj\Debug\Bot.pdb

@@ -1,0 +1,14 @@
+D:\Hackathon-december\Code\Victim\Victim\bin\Debug\Victim.exe.config
+D:\Hackathon-december\Code\Victim\Victim\bin\Debug\Victim.exe
+D:\Hackathon-december\Code\Victim\Victim\bin\Debug\Victim.pdb
+D:\Hackathon-december\Code\Victim\Victim\obj\Debug\Victim.csprojResolveAssemblyReference.cache
+D:\Hackathon-december\Code\Victim\Victim\obj\Debug\Victim.csproj.CoreCompileInputs.cache
+D:\Hackathon-december\Code\Victim\Victim\obj\Debug\Victim.exe
+D:\Hackathon-december\Code\Victim\Victim\obj\Debug\Victim.pdb
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Victim\Victim\bin\Debug\Victim.exe.config
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Victim\Victim\bin\Debug\Victim.exe
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Victim\Victim\bin\Debug\Victim.pdb
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Victim\Victim\obj\Debug\Victim.csprojResolveAssemblyReference.cache
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Victim\Victim\obj\Debug\Victim.csproj.CoreCompileInputs.cache
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Victim\Victim\obj\Debug\Victim.exe
+C:\Users\doroy\Documents\סמסטר ה\תקשורת נתונים\עבודות\Hackathon\Code\Victim\Victim\obj\Debug\Victim.pdb
